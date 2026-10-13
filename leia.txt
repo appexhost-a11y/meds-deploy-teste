@@ -1,0 +1,1 @@
+Teste de deploy nativo do cPanel (VersionControlDeployment) - Meds Projects 13/10/2026

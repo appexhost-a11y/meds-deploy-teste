@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/fulleletronico/deploy-teste
+    - /bin/cp -R ./* $DEPLOYPATH
+
